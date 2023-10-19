@@ -17,8 +17,5 @@
     "jsonwebtoken": "^8.5.1",
     "mime": "^2.4.6",
     "request": "^2.88.2"
-  },
-  "exhortignore": [
-    "jsonwebtoken"
-  ]
+  }
 }
